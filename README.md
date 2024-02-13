@@ -1,4 +1,4 @@
 # E Commerce website
 
-# Navigation Bar is now available.
+## Navigation Bar is now available.
 Still on progress. 
